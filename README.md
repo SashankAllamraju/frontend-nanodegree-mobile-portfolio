@@ -5,8 +5,6 @@ The objective is to optimize this online portfolio for speed! In particular, opt
 ---
 ### Getting started
 
-* The directory '/src' contains the original version.
-* The directory '/dist' contains the optimized version.
 
 Some useful tips to help you get started:
 
